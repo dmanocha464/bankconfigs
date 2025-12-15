@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Bank accounts related local APIs "
+  contactDetails:
+    name: "Deepanshu Manocha - owner"
+    email: "dmanocha464@gmail.com"
+  onCallSupport:
+    - (987) 654-3210
+    - (012) 345-6789

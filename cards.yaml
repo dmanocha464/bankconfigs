@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Bank cards related local APIs "
+  contactDetails:
+    name: "Deepanshu Manocha - Developer"
+    email: "dmanocha464@gmail.com"
+  onCallSupport:
+    - (987) 654-3210
+    - (012) 345-6789
